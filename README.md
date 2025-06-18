@@ -47,8 +47,8 @@ I'm passionate about building real-world applications using modern technologies 
 ## 📫 Let's Connect!
 
 - GitHub: [@mathusan2003](https://github.com/mathusan2003)
-- Email: `your-email@example.com` *(replace with your real email)*
-- LinkedIn: *(Add your LinkedIn link here if available)*
+- Email: smathusan.info@gmail.com
+- LinkedIn:https://www.linkedin.com/in/suresh-mathusan-0bab51318/
 
 ---
 
