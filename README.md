@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Mathusan
 
-🎓 3rd-year student at SLIIT | 💻 Full-stack Developer | 🚀 Founder of CodeNexta
+🎓 4rd-year student at SLIIT | 💻 Full-stack Developer | 🚀 Founder of CodeNexta
 
 I'm passionate about building real-world applications using modern technologies like the **MERN stack**, **PHP**, **Java**, and **Python**. My projects range from user management systems and room rental platforms to certificate workflows and eCommerce systems.
 
