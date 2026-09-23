@@ -56,3 +56,8 @@ I'm passionate about building real-world applications using modern technologies 
 
 I love turning university assignments into real-world applications that solve practical problems. I'm also growing **CodeNexta**, a startup delivering smart tech solutions.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="mathusan2003's GitHub profile" src="dark_mode.svg" />
+</picture>
